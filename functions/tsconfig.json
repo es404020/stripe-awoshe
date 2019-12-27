@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": false,
+    "target": "es2017"
+  },
+  "compileOnSave": true,
+  "include": [
+    "src", "lib/configuration.js", "lib/sources.js", "lib/errorhelper.js", "lib/index.js", "lib/charge.js", "lib/userstranscation.js"
+  ]
+}

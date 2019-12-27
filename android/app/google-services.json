@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725342572482",
+    "firebase_url": "https://strips-c9d56.firebaseio.com",
+    "project_id": "strips-c9d56",
+    "storage_bucket": "strips-c9d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725342572482:android:d6addacea28c5f971e505b",
+        "android_client_info": {
+          "package_name": "com.example.stripe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725342572482-7le1nnuv00oo679hrejmm01gak5mi9e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stripe",
+            "certificate_hash": "9f37903e1f240a50275f5b75a3675faf0a49629c"
+          }
+        },
+        {
+          "client_id": "725342572482-2kug7hvctkf2bisuhf67hpj07gvkfhrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpK64O-ZV8oyGzFTtX4B0b8xebm6vBZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725342572482-2kug7hvctkf2bisuhf67hpj07gvkfhrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
